@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZkFhoXe4EM=",
+  "success": true,
+  "projectFilePath": "C:\\Tiedostot\\Peliohjelmointi\\Screensaver\\Screensaver\\Screensaver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2401221\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
